@@ -17,5 +17,7 @@ def main():
     
     print("the vendors name is ", user_input_vendor) 
     
+    print (f"Hello, {user_input}!, the vendor is {user_input_vendor}
+
 main()
 
